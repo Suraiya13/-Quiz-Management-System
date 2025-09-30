@@ -17,29 +17,6 @@ A role-based quiz management system built with Java and Gradle that allows admin
 - Performance-based feedback
 - Option to retake quiz
 
-## Project Structure
-
-quiz-management-system/
-├── build.gradle
-├── settings.gradle
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── quiz/
-│                   ├── QuizApp.java
-│                   ├── model/
-│                   │   ├── User.java
-│                   │   └── Question.java
-│                   ├── service/
-│                   │   ├── AuthService.java
-│                   │   ├── AdminService.java
-│                   │   └── StudentService.java
-│                   └── util/
-│                       └── FileUtil.java
-├── users.json
-└── quiz.json
-
 ## Prerequisites
 
 - Java 11 or higher
