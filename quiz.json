@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the primary goal of software testing?",
+    "option 1": "To find bugs",
+    "option 2": "To ensure the software is bug-free",
+    "option 3": "To prove the software works correctly",
+    "option 4": "To identify defects and improve quality",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing technique is also known as clear box testing?",
+    "option 1": "Black Box Testing",
+    "option 2": "White Box Testing",
+    "option 3": "Gray Box Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does SDLC stand for?",
+    "option 1": "Software Development Life Cycle",
+    "option 2": "System Design Life Cycle",
+    "option 3": "Software Deployment Life Cycle",
+    "option 4": "System Development Language Code",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is a type of non-functional testing?",
+    "option 1": "Integration Testing",
+    "option 2": "Performance Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Smoke Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is regression testing?",
+    "option 1": "Testing new features only",
+    "option 2": "Re-testing after bug fixes to ensure no new bugs",
+    "option 3": "Testing the entire system from scratch",
+    "option 4": "Testing user interface only",
+    "answerkey": 2
+  },
+  {
+    "question": "Which document describes test cases, procedures, and expected results?",
+    "option 1": "Test Plan",
+    "option 2": "Test Strategy",
+    "option 3": "Test Case Document",
+    "option 4": "Requirement Document",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of smoke testing?",
+    "option 1": "To test all features thoroughly",
+    "option 2": "To verify critical functionalities work",
+    "option 3": "To test performance",
+    "option 4": "To test security",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is performed first?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What does UAT stand for?",
+    "option 1": "Unit Acceptance Testing",
+    "option 2": "User Acceptance Testing",
+    "option 3": "Unified Acceptance Testing",
+    "option 4": "Universal Application Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is a black box testing technique?",
+    "option 1": "Statement Coverage",
+    "option 2": "Branch Coverage",
+    "option 3": "Equivalence Partitioning",
+    "option 4": "Path Coverage",
+    "answerkey": 3
+  },
+  {
+    "question": "What is exploratory testing?",
+    "option 1": "Testing without test cases",
+    "option 2": "Testing with predefined test cases only",
+    "option 3": "Automated testing",
+    "option 4": "Testing documentation",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing ensures software meets business requirements?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Acceptance Testing",
+    "option 4": "Load Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the defect life cycle?",
+    "option 1": "Process of creating test cases",
+    "option 2": "Process of tracking defects from discovery to closure",
+    "option 3": "Process of developing software",
+    "option 4": "Process of user training",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is not a software testing principle?",
+    "option 1": "Testing shows presence of defects",
+    "option 2": "Exhaustive testing is possible",
+    "option 3": "Early testing saves time and money",
+    "option 4": "Defects cluster together",
+    "answerkey": 2
+  },
+  {
+    "question": "What is boundary value analysis?",
+    "option 1": "Testing at the boundaries of input ranges",
+    "option 2": "Testing in the middle of input ranges",
+    "option 3": "Testing random values",
+    "option 4": "Testing only maximum values",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is a static testing technique?",
+    "option 1": "Code Review",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Load Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the main focus of integration testing?",
+    "option 1": "Testing individual modules",
+    "option 2": "Testing interfaces between modules",
+    "option 3": "Testing user interface",
+    "option 4": "Testing security",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing verifies the software works in different environments?",
+    "option 1": "Smoke Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Compatibility Testing",
+    "option 4": "Regression Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is test coverage?",
+    "option 1": "Number of test cases written",
+    "option 2": "Percentage of requirements tested",
+    "option 3": "\"Number of defects found",
+    "option 4": "Time spent on testing",
+    "answerkey": 2
+  }
+]
