@@ -236,14 +236,6 @@ As admin, you can add questions through the CLI, or manually edit quiz.json:
   "answerkey": 1
 }
 
-## License
+## Video Demo
 
-This project is created for educational purposes.
-
-## Author
-
-Quiz Management System - Java Project
-
----
-
-*Note*: Make sure to keep users.json and quiz.json in the same directory as the JAR file when running the application.
+See the video here https://youtu.be/m9sK6Ctffk4
